@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/KrushnaMane11068/Krush2004/blob/main/banner.png" width="100%" alt="Krushna Mane Banner"/>
+<img src="https://github.com/Krush2004/Krush2004/blob/main/banner.png" width="100%" alt="Krushna Mane Banner"/>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Krushna Mane</span></h1>
 <h3 align="center">🚀 Data Analyst | Python Developer | Power BI Enthusiast</h3>
