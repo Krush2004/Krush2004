@@ -30,19 +30,22 @@
 
 ### 💻 Tech Stack  
 
-| **Category** | **Tools & Technologies** |
-|---------------|---------------------------|
-| 📈 **Languages** | Python, SQL |
-| 📊 **Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
-| 🧮 **Data Tools** | Pandas, NumPy, Excel |
-| 🗄️ **Databases** | MySQL, SQLite |
-| ⚙️ **Others** | Git, Jupyter Notebook, VS Code |
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,git,github,vscode" />
+  <br>
+  <!-- Data & Visualization -->
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau" height="50" />
+  <br>
+  <!-- Libraries (text form for clarity) -->
+  🧮 Pandas | Scikit-Learn
+</p>
 
 ---
 
 ### 🚀 Featured Projects  
 
-#### 🏠 **Apartment Price Prediction – Mexico City**
+#### 🏠 **House Price Prediction**
 > Predictive analytics using **Python + Machine Learning** to estimate apartment prices based on area, rooms, and location.
 
 #### 📉 **Volatility Forecasting – MTN Group**
