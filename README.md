@@ -71,7 +71,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krush2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrushnaMane11068&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krush2004&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
