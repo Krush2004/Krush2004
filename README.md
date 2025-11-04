@@ -70,12 +70,11 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krush2004&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=0078ff&icon_color=0078ff" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Krush2004&theme=vue-dark&hide_border=true&background=0D1117&stroke=0078ff&ring=0078ff&fire=0078ff&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Krush2004&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krush2004&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="170" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krush2004&bg_color=0D1117&color=0078ff&line=0078ff&point=FFFFFF&area=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krush2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 
