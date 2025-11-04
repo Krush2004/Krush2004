@@ -24,7 +24,7 @@
 📫 **Reach me at:**  
 <p align="left">
   🔗 <a href="https://www.linkedin.com/in/krushnamane11068" target="_blank">LinkedIn</a> •  
-  ✉ <a href="mailto:krushnamane2004@gmail.com">Email</a> •  
+  ✉ <a href="mailto:krushnamane2004@gmail.com">Email</a> 
 </p>
 
 ---
