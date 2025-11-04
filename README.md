@@ -40,8 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" height="50" alt="Excel"/>
+  <img src="https://github.com/KrushnaMane11068/KrushnaMane11068/blob/main/powerbi.png" alt="Power BI" width="60" height="50"/>
+  <img src="https://github.com/KrushnaMane11068/KrushnaMane11068/blob/main/excel.png" alt="Excel" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn"/>
   <img src="https://skillicons.dev/icons?i=ml" width="50" height="50" alt="Machine Learning"/>
 </p>
@@ -71,8 +71,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrushnaMane11068&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KrushnaMane11068&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Krush2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Krush2004&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
 </p>
 
 ---
