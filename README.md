@@ -33,18 +33,16 @@
 ### 🧰 Skills & Tools  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-icon.svg" width="50" height="50" alt="Google Colab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" height="50" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" height="50" alt="Excel"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn"/>
-  <img src="https://skillicons.dev/icons?i=ml" width="50" height="50" alt="Machine Learning"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="50" height="50"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_SQL_Developer_logo.svg" alt="Oracle SQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="50" height="50"/>
 </p>
 
 ---
@@ -53,15 +51,15 @@
 
 #### 🏠 **House Price Prediction**
 > A Machine Learning project predicting house prices using **Python, Pandas, and Scikit-Learn**.  
-> 🧩 *Skills:* Data Cleaning, Feature Engineering, Regression Models, Visualization  
+> 🧩 *Skills:* Data Cleaning, Feature Engineering, Regression Models
 
 #### 🚗 **Car Price Prediction**
 > Developed a model to estimate used car prices using **Machine Learning and EDA** techniques.  
-> ⚙️ *Tech:* Python, Pandas, NumPy, Sklearn, Power BI  
+> ⚙️ *Tech:* Python, Pandas, NumPy, Sklearn
 
 #### 📈 **Product Success Prediction System**
 > Designed a predictive system to forecast product performance using **classification algorithms**.  
-> 📊 *Stack:* Python, SQL, Jupyter, Power BI  
+> 📊 *Stack:* Python, SQL, Jupyter  
 
 #### 📊 **Exploratory Data Analysis (EDA)**
 > In-depth **data visualization and pattern discovery** using **Python, Matplotlib, and Seaborn**.  
@@ -83,6 +81,8 @@
 🌟 “Data is my language, visualization is my art.”  
 ☕ I code best with coffee & calm lo-fi beats.  
 📚 Currently exploring **advanced ML & AI-driven analytics**.  
+🎯 Love designing **aesthetic dashboards**  
+📚 Currently exploring **Machine Learning & BigQuery**  
 
 ---
 
