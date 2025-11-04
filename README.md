@@ -5,19 +5,21 @@
 <h3 align="center">🚀 Data Analyst | Python Developer | Power BI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KrushnaMane11068&label=Profile%20Views&color=0078ff&style=flat-square" alt="Profile Views"/>
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Decisions.;Turning+Raw+Numbers+into+Stories.;Exploring+Insights+with+Python+%26+Power+BI.">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrushnaMane11068&label=Profile%20Views&color=0078ff&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🧩 About Me  
+### 💼 About Me  
 
-💡 I’m a **Data Analyst & Python Developer** passionate about solving problems with data-driven insights.  
-📊 I combine **analytics, visualization, and programming** to turn complex datasets into actionable results.  
-🎯 Focused on building interactive dashboards, predictive models, and automation tools.  
+💡 Passionate about uncovering insights from data and building intelligent dashboards.  
+📊 Skilled in **Python, SQL, Power BI, and Machine Learning**.  
+🧠 Experienced with **EDA, Predictive Modeling, and Data Visualization**.  
+🌱 Always learning something new in the data universe!  
 
 📫 **Reach me at:**  
 <p align="left">
@@ -28,17 +30,21 @@
 
 ---
 
-### 💻 Tech Stack  
+### 🧰 Skills & Tools  
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,git,github,vscode" />
-  <br>
-  <!-- Data & Visualization -->
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau" height="50" />
-  <br>
-  <!-- Libraries (text form for clarity) -->
-  🧮 Pandas | Scikit-Learn
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-icon.svg" width="50" height="50" alt="Google Colab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" height="50" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" height="50" alt="Excel"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn"/>
+  <img src="https://skillicons.dev/icons?i=ml" width="50" height="50" alt="Machine Learning"/>
 </p>
 
 ---
@@ -46,48 +52,39 @@
 ### 🚀 Featured Projects  
 
 #### 🏠 **House Price Prediction**
-> Predictive analytics using **Python + Machine Learning** to estimate apartment prices based on area, rooms, and location.
+> A Machine Learning project predicting house prices using **Python, Pandas, and Scikit-Learn**.  
+> 🧩 *Skills:* Data Cleaning, Feature Engineering, Regression Models, Visualization  
 
-#### 📉 **Volatility Forecasting – MTN Group**
-> Developed a **financial forecasting system** using APIs and SQLite for predicting stock volatility.
+#### 🚗 **Car Price Prediction**
+> Developed a model to estimate used car prices using **Machine Learning and EDA** techniques.  
+> ⚙️ *Tech:* Python, Pandas, NumPy, Sklearn, Power BI  
 
-#### 🛍️ **Flipkart’s 3D Virtual World (Metaverse Project)**
-> Built in **Decentraland**, featuring **NFT integration**, **AR apparel try-on**, and **MANA token transactions**.
+#### 📈 **Product Success Prediction System**
+> Designed a predictive system to forecast product performance using **classification algorithms**.  
+> 📊 *Stack:* Python, SQL, Jupyter, Power BI  
 
-#### 📊 **Facebook Ad Campaign Analysis**
-> Optimized ad spend using **R + visualization**, identifying the most cost-effective demographics.
-
----
-
-### 🧠 My Expertise  
-
-✔ Data Cleaning & EDA  
-✔ Interactive Dashboards  
-✔ Statistical Analysis & Visualization  
-✔ Machine Learning (Regression, Classification)  
-✔ Automation & Reporting  
+#### 📊 **Exploratory Data Analysis (EDA)**
+> In-depth **data visualization and pattern discovery** using **Python, Matplotlib, and Seaborn**.  
+> 🧠 *Focus:* Trend Analysis, Outlier Detection, and Business Insights  
 
 ---
 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrushnaMane11068&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=0078ff&icon_color=0078ff" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KrushnaMane11068&theme=vue-dark&hide_border=true&background=0D1117&stroke=0078ff&ring=0078ff&fire=0078ff&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KrushnaMane11068&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KrushnaMane11068&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
 </p>
 
 ---
 
-### 🎨 Fun Side of Me  
+### 🎨 Fun Side  
 
-🎯 Always exploring how design meets data  
-📚 Currently learning **Machine Learning & Big Data**  
-🌐 Love building **visual experiences that tell stories**  
-☕ Fueled by coffee, code, and curiosity  
+🌟 “Data is my language, visualization is my art.”  
+☕ I code best with coffee & calm lo-fi beats.  
+📚 Currently exploring **advanced ML & AI-driven analytics**.  
 
 ---
-
-### 💬 Let’s Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krushnamane11068"><img src="https://img.shields.io/badge/LinkedIn-0078FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
