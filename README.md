@@ -7,6 +7,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KrushnaMane11068&label=Profile%20Views&color=0078ff&style=flat-square" alt="Profile Views"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Decisions.;Turning+Raw+Numbers+into+Stories.;Exploring+Insights+with+Python+%26+Power+BI.">
+</p>
 
 ---
 
