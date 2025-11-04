@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/KrushnaMane11068/KrushnaMane11068/blob/main/banner.png" width="100%" alt="Krushna Mane Banner"/>
+<img src="https://github.com/KrushnaMane11068/Krush2004/blob/main/banner.png" width="100%" alt="Krushna Mane Banner"/>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Krushna Mane</span></h1>
 <h3 align="center">🚀 Data Analyst | Python Developer | Power BI Enthusiast</h3>
@@ -40,8 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/>
-  <img src="https://github.com/KrushnaMane11068/KrushnaMane11068/blob/main/powerbi.png" alt="Power BI" width="60" height="50"/>
-  <img src="https://github.com/KrushnaMane11068/KrushnaMane11068/blob/main/excel.png" alt="Excel" width="50" height="50"/>
+  <img src="https://github.com/Krush2004/Krush2004/blob/main/powerbi.png" alt="Power BI" width="60" height="50"/>
+  <img src="https://github.com/Krush2004/Krush2004/blob/main/excel.png" alt="Excel" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn"/>
   <img src="https://skillicons.dev/icons?i=ml" width="50" height="50" alt="Machine Learning"/>
 </p>
