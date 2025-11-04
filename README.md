@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/KrushnaMane11068/KrushnaMane11068/blob/main/assets/banner.png" width="100%" alt="Krushna Mane Banner"/>
+<img src="https://github.com/KrushnaMane11068/KrushnaMane11068/blob/main/banner.png" width="100%" alt="Krushna Mane Banner"/>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Krushna Mane</span></h1>
 <h3 align="center">🚀 Data Analyst | Python Developer | Power BI Enthusiast</h3>
@@ -90,5 +90,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/krushnamane11068"><img src="https://img.shields.io/badge/LinkedIn-0078FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:krushnamane2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/KrushnaMane11068"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Krush2004"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
