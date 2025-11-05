@@ -4,9 +4,9 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Krushna Mane</span></h1>
 <h3 align="center">🚀 Data Analyst | Python Developer | Power BI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Decisions.;Turning+Raw+Numbers+into+Stories.;Exploring+Insights+with+Python+%26+Power+BI.">
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;Machine+Learning+Explorer" alt="Typing Animation" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KrushnaMane11068&label=Profile%20Views&color=0078ff&style=flat-square" alt="Profile Views"/>
