@@ -71,11 +71,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Krush2004&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&v=1" 
+    src="https://github-readme-stats.vercel.app/api?username=Krush2004&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" 
     height="170"
   />
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Krush2004&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&v=1" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krush2004&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" 
     height="170"
   />
 </p>
