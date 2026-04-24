@@ -80,7 +80,7 @@
 #### 📊 Sales Analysis Dashboard
 > ![BI](https://img.shields.io/badge/Business--Intelligence-00BFFF?style=for-the-badge)  
 > Interactive Power BI dashboard tracking KPIs, profit margins, and regional trends for end-to-end sales monitoring.  
-> `Power BI` `DAX` `ETL` `Data Visualization`
+> `Power BI` `DAX` `Data Visualization`
 
 ---
 
@@ -100,7 +100,7 @@
 ### 🎨 The Vibe
 
 🌟 **"Data is my language; intelligence is my art."**  
-☕ Fueled by curiosity, coffee, and strategic chess.  
+☕ Fueled by curiosity, coffee, and table tennis.  
 🎯 Goal: To build AI solutions that solve real-world challenges ethically.
 
 ---
