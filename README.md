@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Solutions;Architecting+RAG+Pipelines;Predictive+Analytics+with+ML;Data+Visualization+with+Power+BI.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Solutions;Architecting+End-to-End+ML+Pipelines;Predictive+Analytics+with+ML;Data+Visualization+with+Power+BI.">
 </p>
 
 <p align="center">
@@ -21,12 +21,12 @@
 ### 🚀 Digital Identity
 
 > **"I transform raw data into intelligent action."**  
-> As a **Data Scientist & ML Engineer**, I bridge the gap between complex datasets and actionable business intelligence. My expertise lies in architecting robust **RAG pipelines**, developing high-accuracy **Machine Learning models**, and crafting interactive **Data Visualizations** that tell a story.
+> As a **Data Scientist & ML Engineer**, I bridge the gap between complex datasets and actionable business intelligence. My expertise lies in architecting robust **RAG pipelines**, developing **End-to-End ML Pipelines**, and crafting interactive **Data Visualizations** that tell a story.
 
 - 🤖 **GenAI Specialist:** Focused on minimizing hallucinations in LLMs through grounded retrieval.
+- ⚙️ **ML Ops & Pipelines:** Designing automated workflows from data ingestion to model deployment.
 - 📉 **Predictive Architect:** Building ensemble models with a proven track record of **87%+ accuracy**.
 - 📊 **Insight Driven:** Translating high-dimensional data into strategic Power BI dashboards.
-- 🎓 **Academic Excellence:** Pursuing B.E. in **AI & ML** (Mumbai University) with a **8.44 CGPA**.
 
 ---
 
@@ -44,9 +44,11 @@
 
 #### 📊 Data Analytics & Cloud
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://microsoft.com/excel)
 
 </div>
 
@@ -54,21 +56,25 @@
 
 ### 🌟 Featured Projects
 
-<div align="center">
+#### 🔍 Annual Report RAG System
+> ![RAG](https://img.shields.io/badge/Grounded--AI-0078FF?style=for-the-badge)  
+> A grounded retrieval pipeline reducing LLM hallucinations. Features page-level citations and vector embeddings for precise financial analysis.  
+> `LangChain` `Pinecone` `LLMs` `Python`
 
-| 📑 Annual Report RAG | 📚 Study Recommender |
-| :--- | :--- |
-| ![RAG](https://img.shields.io/badge/Grounded--AI-0078FF?style=for-the-badge) | ![ML](https://img.shields.io/badge/Predictive--Analytics-00BFFF?style=for-the-badge) |
-| A grounded retrieval pipeline reducing LLM hallucinations. Features page-level citations and vector embeddings for precise financial analysis. | Predicts student performance based on study habits with **87% accuracy**. Generates personalized weekly schedules. |
-| `LangChain` `Pinecone` `LLMs` | `Python` `Scikit-Learn` `Streamlit` |
+#### 📚 Study Habit Recommender
+> ![ML](https://img.shields.io/badge/Predictive--Analytics-00BFFF?style=for-the-badge)  
+> Predicts student performance based on study habits with **87% accuracy**. Generates personalized weekly schedules and behavioral optimization.  
+> `Python` `Scikit-Learn` `Streamlit` `Pandas`
 
-| 🚀 Product Forecast | 📊 Sales Dashboard |
-| :--- | :--- |
-| ![Forecast](https://img.shields.io/badge/Market--Viability-0078FF?style=for-the-badge) | ![BI](https://img.shields.io/badge/Business--Intelligence-00BFFF?style=for-the-badge) |
-| Data science model analyzing 25+ attributes to forecast product launch success with **84% predictive accuracy**. | Interactive Power BI dashboard tracking KPIs, profit margins, and regional trends for end-to-end sales monitoring. |
-| `Random Forest` `Seaborn` | `Power BI` `DAX` `ETL` |
+#### 🚀 Product Success Prediction
+> ![Forecast](https://img.shields.io/badge/Market--Viability-0078FF?style=for-the-badge)  
+> Data science model analyzing 25+ attributes to forecast product launch success with **84% predictive accuracy**.  
+> `Random Forest` `Matplotlib` `Seaborn` `Scikit-Learn`
 
-</div>
+#### 📊 Sales Analysis Dashboard
+> ![BI](https://img.shields.io/badge/Business--Intelligence-00BFFF?style=for-the-badge)  
+> Interactive Power BI dashboard tracking KPIs, profit margins, and regional trends for end-to-end sales monitoring.  
+> `Power BI` `DAX` `ETL` `Data Visualization`
 
 ---
 
@@ -97,3 +103,6 @@
   <a href="https://www.linkedin.com/in/krushnamane11068"><img src="https://img.shields.io/badge/LinkedIn-0078FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:krushnamane2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+
+
