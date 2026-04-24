@@ -5,11 +5,11 @@
 
 <h1 align="center">✨ <span style="color:#0078ff;">Krushna Mane</span> ✨</h1>
 <p align="center">
-  <b>GenAI Developer | Data Scientist | Big Data Engineer</b>
+  <b>Data Scientist | ML Engineer | Data Analyst</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+GenAI+Systems;Architecting+RAG+Pipelines;Big+Data+Solutions+with+PySpark+%26+Databricks;Crafting+Premium+Neural+Interfaces.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Solutions;Architecting+RAG+Pipelines;Predictive+Analytics+with+ML;Data+Visualization+with+Power+BI.">
 </p>
 
 <p align="center">
@@ -20,12 +20,12 @@
 
 ### 🚀 About Me
 
-I am a **Data-Driven Innovator** specializing in the intersection of **Generative AI**, **Big Data**, and **Premium Web Experiences**. My work focuses on transforming complex data into actionable intelligence through high-performance pipelines and intuitive, interactive interfaces.
+I am a **Data Scientist & ML Engineer** focused on building intelligent systems that turn complex data into actionable insights. I specialize in **Machine Learning**, **Generative AI**, and **Predictive Analytics**.
 
-- 🧠 Currently focused on **RAG (Retrieval-Augmented Generation)** and **Large Language Models**.
-- 🛠️ Expert in scaling data workloads using **PySpark** and **Databricks**.
-- 🎨 Passionate about building **"Neural" UI/UX** with smooth animations and interactive backgrounds.
-- 🌱 Lifelong learner in the evolving landscape of AI and Machine Learning.
+- 🧠 Expert in **RAG (Retrieval-Augmented Generation)** and **Large Language Models**.
+- 📊 Skilled in building high-accuracy predictive models with **87%+ accuracy**.
+- 🛠️ Experienced in data manipulation and visualization using **Python, SQL, and Power BI**.
+- 🌱 Pursuing a B.E. in **Computer Science & Engineering (AI & ML)** with a CGPA of **8.44**.
 
 ---
 
@@ -33,22 +33,17 @@ I am a **Data-Driven Innovator** specializing in the intersection of **Generativ
 
 <div align="center">
 
-#### 🤖 GenAI & Machine Learning
+#### 🤖 AI & Machine Learning
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![LangChain](https://img.shields.io/badge/🦜%20LangChain-black?style=for-the-badge)](https://langchain.com)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
-#### 🏗️ Big Data & Infrastructure
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+#### 📊 Data Analytics & Tools
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-
-#### 🌐 Web & Interactions
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://microsoft.com/excel)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com)
 
 </div>
 
@@ -60,25 +55,25 @@ I am a **Data-Driven Innovator** specializing in the intersection of **Generativ
   <tr>
     <td width="50%">
       <h4>🔍 Annual Report RAG System</h4>
-      <p>An intelligent retrieval system for financial documents using LangChain and Vector Databases. Enables natural language querying over complex annual reports.</p>
-      <code>Python</code> <code>LangChain</code> <code>OpenAI</code> <code>ChromaDB</code>
+      <p>A grounded retrieval pipeline reducing LLM hallucinations. Features page-level citations and vector embeddings for precise financial analysis.</p>
+      <code>Python</code> <code>LangChain</code> <code>Pinecone</code> <code>LLMs</code>
     </td>
     <td width="50%">
-      <h4>🧠 Neural Portfolio Interface</h4>
-      <p>A high-performance portfolio featuring interactive neural backgrounds, liquid cursors, and theme-aware animations for a premium user experience.</p>
-      <code>JavaScript</code> <code>HTML5/CSS3</code> <code>Canvas API</code>
+      <h4>📚 Study Habit Recommender</h4>
+      <p>Predicts student performance based on study habits with 87% accuracy. Generates personalized weekly schedules.</p>
+      <code>Python</code> <code>Scikit-Learn</code> <code>Streamlit</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>🏠 House Price Prediction</h4>
-      <p>Advanced regression modeling to forecast real estate values with high accuracy using feature engineering and ensemble methods.</p>
-      <code>ML</code> <code>Python</code> <code>Pandas</code> <code>Scikit-Learn</code>
+      <h4>🚀 Product Success Prediction</h4>
+      <p>Data science model analyzing 25+ attributes to forecast product launch success with 84% predictive accuracy.</p>
+      <code>Random Forest</code> <code>Matplotlib</code> <code>Seaborn</code>
     </td>
     <td width="50%">
-      <h4>🚗 Product Success Forecast</h4>
-      <p>Predictive analytics system using classification algorithms to determine market viability for new product launches.</p>
-      <code>Data Science</code> <code>SQL</code> <code>Analytics</code>
+      <h4>📊 Sales Analysis Dashboard</h4>
+      <p>Interactive Power BI dashboard tracking KPIs, profit margins, and regional trends for end-to-end sales monitoring.</p>
+      <code>Power BI</code> <code>Data Analysis</code> <code>KPIs</code>
     </td>
   </tr>
 </table>
@@ -100,9 +95,9 @@ I am a **Data-Driven Innovator** specializing in the intersection of **Generativ
 
 ### 🎨 The Vibe
 
-🌟 **"Turning data into stories, and stories into intelligence."**  
-☕ Fueled by curiosity, coffee, and lo-fi beats.  
-🎯 Goal: To build AI that is as beautiful as it is functional.
+🌟 **"Turning raw data into intelligent action."**  
+☕ Fueled by curiosity, coffee, and strategic chess.  
+🎯 Goal: To build AI solutions that solve real-world challenges ethically.
 
 ---
 
@@ -110,4 +105,5 @@ I am a **Data-Driven Innovator** specializing in the intersection of **Generativ
   <a href="https://www.linkedin.com/in/krushnamane11068"><img src="https://img.shields.io/badge/LinkedIn-0078FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:krushnamane2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
 
