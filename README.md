@@ -18,14 +18,15 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Digital Identity
 
-I am a **Data Scientist & ML Engineer** focused on building intelligent systems that turn complex data into actionable insights. I specialize in **Machine Learning**, **Generative AI**, and **Predictive Analytics**.
+> **"I transform raw data into intelligent action."**  
+> As a **Data Scientist & ML Engineer**, I bridge the gap between complex datasets and actionable business intelligence. My expertise lies in architecting robust **RAG pipelines**, developing high-accuracy **Machine Learning models**, and crafting interactive **Data Visualizations** that tell a story.
 
-- 🧠 Expert in **RAG (Retrieval-Augmented Generation)** and **Large Language Models**.
-- 📊 Skilled in building high-accuracy predictive models with **87%+ accuracy**.
-- 🛠️ Experienced in data manipulation and visualization using **Python, SQL, and Power BI**.
-- 🌱 Pursuing a B.E. in **Computer Science & Engineering (AI & ML)** with a CGPA of **8.44**.
+- 🤖 **GenAI Specialist:** Focused on minimizing hallucinations in LLMs through grounded retrieval.
+- 📉 **Predictive Architect:** Building ensemble models with a proven track record of **87%+ accuracy**.
+- 📊 **Insight Driven:** Translating high-dimensional data into strategic Power BI dashboards.
+- 🎓 **Academic Excellence:** Pursuing B.E. in **AI & ML** (Mumbai University) with a **8.44 CGPA**.
 
 ---
 
@@ -35,15 +36,17 @@ I am a **Data Scientist & ML Engineer** focused on building intelligent systems 
 
 #### 🤖 AI & Machine Learning
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://tensorflow.org)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![LangChain](https://img.shields.io/badge/🦜%20LangChain-black?style=for-the-badge)](https://langchain.com)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org)
 
-#### 📊 Data Analytics & Tools
+#### 📊 Data Analytics & Cloud
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://microsoft.com/excel)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 
 </div>
 
@@ -51,36 +54,25 @@ I am a **Data Scientist & ML Engineer** focused on building intelligent systems 
 
 ### 🌟 Featured Projects
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <h4>🔍 Annual Report RAG System</h4>
-      <p>A grounded retrieval pipeline reducing LLM hallucinations. Features page-level citations and vector embeddings for precise financial analysis.</p>
-      <code>Python</code> <code>LangChain</code> <code>Pinecone</code> <code>LLMs</code>
-    </td>
-    <td width="50%">
-      <h4>📚 Study Habit Recommender</h4>
-      <p>Predicts student performance based on study habits with 87% accuracy. Generates personalized weekly schedules.</p>
-      <code>Python</code> <code>Scikit-Learn</code> <code>Streamlit</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🚀 Product Success Prediction</h4>
-      <p>Data science model analyzing 25+ attributes to forecast product launch success with 84% predictive accuracy.</p>
-      <code>Random Forest</code> <code>Matplotlib</code> <code>Seaborn</code>
-    </td>
-    <td width="50%">
-      <h4>📊 Sales Analysis Dashboard</h4>
-      <p>Interactive Power BI dashboard tracking KPIs, profit margins, and regional trends for end-to-end sales monitoring.</p>
-      <code>Power BI</code> <code>Data Analysis</code> <code>KPIs</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 📑 Annual Report RAG | 📚 Study Recommender |
+| :--- | :--- |
+| ![RAG](https://img.shields.io/badge/Grounded--AI-0078FF?style=for-the-badge) | ![ML](https://img.shields.io/badge/Predictive--Analytics-00BFFF?style=for-the-badge) |
+| A grounded retrieval pipeline reducing LLM hallucinations. Features page-level citations and vector embeddings for precise financial analysis. | Predicts student performance based on study habits with **87% accuracy**. Generates personalized weekly schedules. |
+| `LangChain` `Pinecone` `LLMs` | `Python` `Scikit-Learn` `Streamlit` |
+
+| 🚀 Product Forecast | 📊 Sales Dashboard |
+| :--- | :--- |
+| ![Forecast](https://img.shields.io/badge/Market--Viability-0078FF?style=for-the-badge) | ![BI](https://img.shields.io/badge/Business--Intelligence-00BFFF?style=for-the-badge) |
+| Data science model analyzing 25+ attributes to forecast product launch success with **84% predictive accuracy**. | Interactive Power BI dashboard tracking KPIs, profit margins, and regional trends for end-to-end sales monitoring. |
+| `Random Forest` `Seaborn` | `Power BI` `DAX` `ETL` |
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Ecosystem
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krush2004&theme=tokyonight" height="180" />
@@ -95,7 +87,7 @@ I am a **Data Scientist & ML Engineer** focused on building intelligent systems 
 
 ### 🎨 The Vibe
 
-🌟 **"Turning raw data into intelligent action."**  
+🌟 **"Data is my language; intelligence is my art."**  
 ☕ Fueled by curiosity, coffee, and strategic chess.  
 🎯 Goal: To build AI solutions that solve real-world challenges ethically.
 
@@ -105,5 +97,3 @@ I am a **Data Scientist & ML Engineer** focused on building intelligent systems 
   <a href="https://www.linkedin.com/in/krushnamane11068"><img src="https://img.shields.io/badge/LinkedIn-0078FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:krushnamane2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-
