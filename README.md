@@ -94,7 +94,7 @@
 ### 🎨 The Vibe
 
 🌟 **"Data is my language; intelligence is my art."**  
-☕ Fueled by curiosity, coffee, and strategic chess.  
+☕ Fueled by curiosity, coffee, and table tannis.  
 🎯 Goal: To build AI solutions that solve real-world challenges ethically.
 
 ---
